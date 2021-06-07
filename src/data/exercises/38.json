@@ -1,0 +1,56 @@
+{
+    "exercises": [
+        {
+            "id": 10,
+            "video_id": 3,
+            "session_id": 38,
+            "exe_order": 1,
+            "sets": 1,
+            "weight": 1,
+            "reps": "1",
+            "tempo": "1",
+            "rest": 1,
+            "weight_lbs": 1,
+            "created": "2021-05-17T07:49:10+00:00",
+            "modified": "2021-05-17T07:49:10+00:00",
+            "updated": null,
+            "video": {
+                "id": 3,
+                "name": "220 Calories - 30 mins",
+                "image": null,
+                "preview_link": null,
+                "video_link": "RL3kcQ-lfqo",
+                "notes": null,
+                "created": "2021-05-17T07:44:19+00:00",
+                "modified": "2021-05-17T07:44:19+00:00",
+                "updated": null
+            }
+        },
+        {
+            "id": 11,
+            "video_id": 6,
+            "session_id": 38,
+            "exe_order": 2,
+            "sets": 2,
+            "weight": 2,
+            "reps": "2",
+            "tempo": "2",
+            "rest": 2,
+            "weight_lbs": 2,
+            "created": "2021-05-17T11:38:26+00:00",
+            "modified": "2021-05-17T11:38:26+00:00",
+            "updated": null,
+            "video": {
+                "id": 6,
+                "name": "[Level 2] 20 Minute Fat Burning",
+                "image": null,
+                "preview_link": null,
+                "video_link": "41hy01h3_WI",
+                "notes": null,
+                "created": "2021-05-17T07:47:58+00:00",
+                "modified": "2021-05-17T07:48:09+00:00",
+                "updated": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "program": {
+        "id": 18,
+        "name": "Ujjwals Workout",
+        "description": "",
+        "imageUrl": "ujjwal-workout.jpg",
+        "type": 2,
+        "repeat_for": 4,
+        "created": "2021-05-15T04:28:38+00:00",
+        "modified": "2021-05-16T13:12:51+00:00",
+        "updated": null,
+        "sessions": [
+            {
+                "id": 33,
+                "program_id": 18,
+                "program_day": 1,
+                "name": "New one updated",
+                "imageUrl": "O4U0R2B2BS-1524369060.jpg",
+                "description": "kdsjsd",
+                "created": "2021-05-10T14:30:56+00:00",
+                "modified": "2021-05-16T14:01:01+00:00",
+                "updated": null
+            },
+            {
+                "id": 37,
+                "program_id": 18,
+                "program_day": 2,
+                "name": "Upper Core",
+                "imageUrl": "nikita-program.jpg",
+                "description": "Some description",
+                "created": "2021-05-15T04:29:16+00:00",
+                "modified": "2021-05-16T14:01:08+00:00",
+                "updated": null
+            }
+        ]
+    }
+}

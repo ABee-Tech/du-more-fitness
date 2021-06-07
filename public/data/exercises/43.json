@@ -1,0 +1,108 @@
+{
+    "exercises": [
+        {
+            "id": 20,
+            "video_id": 26,
+            "session_id": 43,
+            "exe_order": 1,
+            "sets": 3,
+            "weight": null,
+            "reps": "6-8",
+            "tempo": "",
+            "rest": 120,
+            "weight_lbs": null,
+            "created": "2021-05-18T17:08:37+00:00",
+            "modified": "2021-05-18T17:08:37+00:00",
+            "updated": null,
+            "video": {
+                "id": 26,
+                "name": "Goblet Squat",
+                "image": "",
+                "preview_link": null,
+                "video_link": "O6K6zvWGnck",
+                "notes": null,
+                "created": "2021-05-18T17:07:09+00:00",
+                "modified": "2021-05-18T17:07:09+00:00",
+                "updated": null
+            }
+        },
+        {
+            "id": 21,
+            "video_id": 27,
+            "session_id": 43,
+            "exe_order": 2,
+            "sets": 3,
+            "weight": null,
+            "reps": "8-12",
+            "tempo": "",
+            "rest": 60,
+            "weight_lbs": null,
+            "created": "2021-05-18T17:08:52+00:00",
+            "modified": "2021-05-18T17:08:52+00:00",
+            "updated": null,
+            "video": {
+                "id": 27,
+                "name": "Romanian Deadlift",
+                "image": "",
+                "preview_link": null,
+                "video_link": "2yG4vdL8Arw",
+                "notes": null,
+                "created": "2021-05-18T17:07:35+00:00",
+                "modified": "2021-05-18T17:07:35+00:00",
+                "updated": null
+            }
+        },
+        {
+            "id": 22,
+            "video_id": 29,
+            "session_id": 43,
+            "exe_order": 2,
+            "sets": 3,
+            "weight": null,
+            "reps": "8-12",
+            "tempo": "",
+            "rest": 30,
+            "weight_lbs": null,
+            "created": "2021-05-18T17:09:04+00:00",
+            "modified": "2021-05-18T17:09:04+00:00",
+            "updated": null,
+            "video": {
+                "id": 29,
+                "name": "Glute Bridge",
+                "image": "",
+                "preview_link": null,
+                "video_link": "Nxbe9U00Kwg",
+                "notes": null,
+                "created": "2021-05-18T17:08:01+00:00",
+                "modified": "2021-05-18T17:08:01+00:00",
+                "updated": null
+            }
+        },
+        {
+            "id": 23,
+            "video_id": 28,
+            "session_id": 43,
+            "exe_order": 3,
+            "sets": 3,
+            "weight": null,
+            "reps": "8-12",
+            "tempo": "",
+            "rest": 60,
+            "weight_lbs": null,
+            "created": "2021-05-18T17:09:17+00:00",
+            "modified": "2021-05-18T17:09:17+00:00",
+            "updated": null,
+            "video": {
+                "id": 28,
+                "name": "Split Squat",
+                "image": "",
+                "preview_link": null,
+                "video_link": "F7xmEGBVz9A",
+                "notes": null,
+                "created": "2021-05-18T17:07:48+00:00",
+                "modified": "2021-05-18T17:07:48+00:00",
+                "updated": null
+            }
+        }
+    ]
+}

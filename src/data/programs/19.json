@@ -1,0 +1,37 @@
+{
+    "program": {
+        "id": 19,
+        "name": "Nikita Prgoram",
+        "description": "Hello Nikita",
+        "imageUrl": "nikita-program.jpg",
+        "type": 4,
+        "repeat_for": 6,
+        "created": "2021-05-17T06:39:16+00:00",
+        "modified": "2021-06-01T10:47:13+00:00",
+        "updated": null,
+        "sessions": [
+            {
+                "id": 40,
+                "program_id": 19,
+                "program_day": 1,
+                "name": "Upper Body",
+                "imageUrl": "arm-exercise.jpg",
+                "description": "Upper Body",
+                "created": "2021-05-17T06:39:55+00:00",
+                "modified": "2021-05-17T06:39:55+00:00",
+                "updated": null
+            },
+            {
+                "id": 41,
+                "program_id": 19,
+                "program_day": 2,
+                "name": "Lower Body",
+                "imageUrl": "ujjwal-workout.jpg",
+                "description": "Lower Body",
+                "created": "2021-05-17T06:41:01+00:00",
+                "modified": "2021-05-17T06:41:01+00:00",
+                "updated": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "program": {
+        "id": 14,
+        "name": "Iron Program",
+        "description": "",
+        "imageUrl": "O4U0R2B2BS-1524369060.jpg",
+        "type": 2,
+        "repeat_for": 3,
+        "created": "2021-05-12T16:55:09+00:00",
+        "modified": "2021-05-16T13:12:28+00:00",
+        "updated": null,
+        "sessions": [
+            {
+                "id": 38,
+                "program_id": 14,
+                "program_day": 1,
+                "name": "Cardio",
+                "imageUrl": "3-program-day.jpg",
+                "description": "Do some cardio exercise",
+                "created": "2021-05-16T13:18:57+00:00",
+                "modified": "2021-05-16T13:18:57+00:00",
+                "updated": null
+            },
+            {
+                "id": 39,
+                "program_id": 14,
+                "program_day": 2,
+                "name": "Upper Thigh",
+                "imageUrl": "O4U0R2B2BS-1524369060.jpg",
+                "description": "Exercises for upper thigh",
+                "created": "2021-05-16T13:55:21+00:00",
+                "modified": "2021-05-16T13:55:21+00:00",
+                "updated": null
+            }
+        ]
+    }
+}

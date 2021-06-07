@@ -1,0 +1,48 @@
+{
+    "program": {
+        "id": 20,
+        "name": "May Program 3 Day",
+        "description": "",
+        "imageUrl": "3-program-day.jpg",
+        "type": 3,
+        "repeat_for": 4,
+        "created": "2021-05-18T16:55:35+00:00",
+        "modified": "2021-06-01T10:49:41+00:00",
+        "updated": null,
+        "sessions": [
+            {
+                "id": 42,
+                "program_id": 20,
+                "program_day": 1,
+                "name": "Upper Body",
+                "imageUrl": "session-01.jpg",
+                "description": "",
+                "created": "2021-05-18T16:55:55+00:00",
+                "modified": "2021-06-01T10:55:24+00:00",
+                "updated": null
+            },
+            {
+                "id": 43,
+                "program_id": 20,
+                "program_day": 2,
+                "name": "Lower Body",
+                "imageUrl": "3-program-day.jpg",
+                "description": "",
+                "created": "2021-05-18T16:56:06+00:00",
+                "modified": "2021-05-18T16:56:06+00:00",
+                "updated": null
+            },
+            {
+                "id": 44,
+                "program_id": 20,
+                "program_day": 3,
+                "name": "Full Body",
+                "imageUrl": "arm-exercise.jpg",
+                "description": "",
+                "created": "2021-05-18T16:56:26+00:00",
+                "modified": "2021-05-18T16:56:26+00:00",
+                "updated": null
+            }
+        ]
+    }
+}

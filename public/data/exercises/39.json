@@ -1,0 +1,30 @@
+{
+    "exercises": [
+        {
+            "id": 12,
+            "video_id": 15,
+            "session_id": 39,
+            "exe_order": 2,
+            "sets": 1,
+            "weight": 2,
+            "reps": "2 to 4",
+            "tempo": "slow",
+            "rest": 10,
+            "weight_lbs": 0,
+            "created": "2021-05-18T03:50:33+00:00",
+            "modified": "2021-05-18T03:50:33+00:00",
+            "updated": null,
+            "video": {
+                "id": 15,
+                "name": "12 Minutes Full Body Workout",
+                "image": null,
+                "preview_link": null,
+                "video_link": "QWolyghiFJk",
+                "notes": null,
+                "created": "2021-05-17T08:47:42+00:00",
+                "modified": "2021-05-17T08:47:42+00:00",
+                "updated": null
+            }
+        }
+    ]
+}

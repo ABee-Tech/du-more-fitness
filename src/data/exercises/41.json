@@ -1,0 +1,56 @@
+{
+    "exercises": [
+        {
+            "id": 8,
+            "video_id": 2,
+            "session_id": 41,
+            "exe_order": 4,
+            "sets": 4,
+            "weight": 4,
+            "reps": "4",
+            "tempo": "4",
+            "rest": 4,
+            "weight_lbs": 4,
+            "created": "2021-05-17T06:41:57+00:00",
+            "modified": "2021-05-17T06:41:57+00:00",
+            "updated": null,
+            "video": {
+                "id": 2,
+                "name": "Single Leg Glute Bridge",
+                "image": null,
+                "preview_link": null,
+                "video_link": "dONY3Ai9-Sg",
+                "notes": null,
+                "created": "2021-05-14T11:30:23+00:00",
+                "modified": "2021-05-14T11:30:23+00:00",
+                "updated": null
+            }
+        },
+        {
+            "id": 9,
+            "video_id": 1,
+            "session_id": 41,
+            "exe_order": 2,
+            "sets": 2,
+            "weight": 2,
+            "reps": "2",
+            "tempo": "2",
+            "rest": 2,
+            "weight_lbs": 2,
+            "created": "2021-05-17T06:45:18+00:00",
+            "modified": "2021-05-17T06:45:18+00:00",
+            "updated": null,
+            "video": {
+                "id": 1,
+                "name": "Single Arm Row",
+                "image": "",
+                "preview_link": "peDg-etEmQE",
+                "video_link": "peDg-etEmQE",
+                "notes": "Test Notes",
+                "created": "2021-05-14T11:18:16+00:00",
+                "modified": "2021-05-19T03:10:53+00:00",
+                "updated": 2021
+            }
+        }
+    ]
+}

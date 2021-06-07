@@ -1,0 +1,37 @@
+{
+    "program": {
+        "id": 17,
+        "name": "Kims workout",
+        "description": "Hello Kim, how are you doing",
+        "imageUrl": "arm-exercise.jpg",
+        "type": 5,
+        "repeat_for": 5,
+        "created": "2021-05-14T08:20:45+00:00",
+        "modified": "2021-05-16T13:12:38+00:00",
+        "updated": null,
+        "sessions": [
+            {
+                "id": 35,
+                "program_id": 17,
+                "program_day": 1,
+                "name": "Core",
+                "imageUrl": "arm-exercise.jpg",
+                "description": "works",
+                "created": "2021-05-11T07:11:39+00:00",
+                "modified": "2021-05-14T08:56:15+00:00",
+                "updated": null
+            },
+            {
+                "id": 36,
+                "program_id": 17,
+                "program_day": 1,
+                "name": "Strength",
+                "imageUrl": "ujjwal-workout.jpg",
+                "description": "d",
+                "created": "2021-05-12T16:55:51+00:00",
+                "modified": "2021-05-14T10:42:59+00:00",
+                "updated": null
+            }
+        ]
+    }
+}
